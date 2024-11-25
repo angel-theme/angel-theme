@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "SST-bold";
+  src: url("https://res.cloudinary.com/rancyshop/raw/upload/v1732567347/alfont_com_AlFont_com_SST-Arabic-Bold_vjweal.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SST-medium";
+  src: url("https://res.cloudinary.com/rancyshop/raw/upload/v1732567344/alfont_com_SST-Arabic-Medium_sv6j9p.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
